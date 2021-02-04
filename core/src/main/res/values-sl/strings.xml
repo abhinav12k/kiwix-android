@@ -26,7 +26,7 @@
   <string name="save_media_saved">Shrani medij kot %s na Android/media/org.kiwix…/</string>
   <string name="search_label">Iskanje</string>
   <string name="choose_file">Izberite datoteko z vsebino (*.zim)</string>
-  <string name="open_in_new_tab">Odprem povezavo v novem zavihku?</string>
+  <string name="open_in_new_tab">Odprem povezavo na novem zavihku?</string>
   <string name="error_file_not_found">Napaka: izbrane datoteke ZIM ni mogoče najti.</string>
   <string name="error_file_invalid">Napaka: izbrana datoteka ni veljavna datoteka ZIM.</string>
   <string name="error_article_url_not_found">Napaka: nalaganje članka (url: %1$s) ni uspelo.</string>
@@ -72,7 +72,7 @@
   <string name="pref_newtab_background_title">Odprite nov zavihek v ozadju</string>
   <string name="pref_newtab_background_summary">Ko odprete nov zavihek, se odpre v ozadju</string>
   <string name="pref_extras">Pripomočki</string>
-  <string name="new_tab_snack_bar">Članek odprt v novem zavihku</string>
+  <string name="new_tab_snack_bar">Članek odprt na novem zavihku</string>
   <string name="search_widget_text">Iskanje Kiwix</string>
   <string name="speech_prompt_text">Govori za iskanje %s</string>
   <string name="speech_not_supported">Žal vaša naprava ne podpira vnosa govora</string>
